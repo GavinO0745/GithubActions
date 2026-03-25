@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/25feebfa-0b60-4448-a088-aff5134f2814" />
+[![Run App Olsen, Gavin](https://github.com/GavinO0745/GithubActions/actions/workflows/ci.yml/badge.svg)](https://github.com/GavinO0745/GithubActions/actions/workflows/ci.yml)
 
 # Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
 .
